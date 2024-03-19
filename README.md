@@ -19,3 +19,4 @@ For this I have generated my first Personal SSH key and added the key in Git>Set
 ```bash
 ssh-keygen -t ed25519-sk -C "your_gitHub_email@example.com"
 ```
+You can use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServery.LiveServer) to see live modifications of your website
