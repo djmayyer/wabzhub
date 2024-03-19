@@ -17,16 +17,16 @@ I will try my best and apply all the knowledge that I know
 # Body Sections:
 
 # Colors
-[#645960](https://placehold.co/15x15/645960/645960.png)`645960`
-[#D9AD25](https://placehold.co/15x15/D9AD25/D9AD25.png)`D9AD25`
+![#645960](https://placehold.co/15x15/645960/645960.png)`645960`
+![#D9AD25](https://placehold.co/15x15/D9AD25/D9AD25.png)`D9AD25`
 Gray
-[#786C74](https://placehold.co/15x15/786C74/786C74.png)`786C74`
-[#564B52](https://placehold.co/15x15/564B52/564B52.png)`564B52`
-[#483E44](https://placehold.co/15x15/483E44/483E44.png)`483E44`
+![#786C74](https://placehold.co/15x15/786C74/786C74.png)`786C74`
+![#564B52](https://placehold.co/15x15/564B52/564B52.png)`564B52`
+![#483E44](https://placehold.co/15x15/483E44/483E44.png)`483E44`
 Yellow
-[#F8D350](https://placehold.co/15x15/F8D350/F8D350.png)`F8D350`
-[#B88A08](https://placehold.co/15x15/B88A08/B88A08.png)`B88A08`
-[#986F07](https://placehold.co/15x15/986F07/986F07.png)`986F07`
+![#F8D350](https://placehold.co/15x15/F8D350/F8D350.png)`F8D350`
+![#B88A08](https://placehold.co/15x15/B88A08/B88A08.png)`B88A08`
+![#986F07](https://placehold.co/15x15/986F07/986F07.png)`986F07`
 
 # Website Pages Diagram
 
